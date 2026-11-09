@@ -8,6 +8,8 @@
 
 **[➡️ Télécharger la dernière version](../../releases/latest)** (fichier `Legatus Setup x.y.z.exe`)
 
+**[💬 Rejoindre le Discord](https://discord.gg/zdnYHb2vBr)** : licences, aide et annonces.
+
 Une licence est nécessaire pour utiliser le bot : voir [Obtenir une licence](#-obtenir-une-licence).
 
 ## ✨ Fonctions
@@ -35,7 +37,7 @@ Une licence est nécessaire pour utiliser le bot : voir [Obtenir une licence](#-
 
 ## 🔑 Obtenir une licence
 
-1. Rejoins le serveur Discord : <!-- DISCORD -->*lien bientôt disponible*<!-- /DISCORD -->
+1. Rejoins le serveur Discord : <!-- DISCORD -->**[discord.gg/zdnYHb2vBr](https://discord.gg/zdnYHb2vBr)**<!-- /DISCORD -->
 2. Ouvre Legatus, onglet **🔑 Licence**, et clique sur **Copier** à côté de *Identifiant de ce PC*.
 3. Envoie cet identifiant sur le Discord pour demander ta clé (tarifs et formules sur le Discord).
 4. Colle la clé reçue dans l'onglet **🔑 Licence**, puis clique sur **Activer**.
