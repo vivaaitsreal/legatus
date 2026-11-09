@@ -1,0 +1,24 @@
+﻿CONTRAT DE LICENCE D'UTILISATION - LEGATUS
+
+Lis attentivement ce contrat. En cliquant sur « J'accepte », tu acceptes toutes ses conditions. Si tu ne les acceptes pas, n'installe pas le logiciel.
+
+1. INDÉPENDANCE
+Ce logiciel est un outil indépendant. Il n'est ni développé, ni approuvé, ni soutenu par Travian Games GmbH. « Travian » est une marque de son propriétaire, citée uniquement pour indiquer le jeu concerné.
+
+2. RISQUE DE BANNISSEMENT
+Les règles du jeu Travian interdisent les programmes d'automatisation. Utiliser ce logiciel peut entraîner la suspension ou la suppression définitive de ton compte de jeu. Tu l'utilises en connaissance de cause et sous ta seule responsabilité. Aucun remboursement ni dédommagement n'est dû en cas de sanction dans le jeu.
+
+3. LICENCE
+La licence est personnelle, non cessible et liée à un seul ordinateur, sauf mention contraire sur la clé. Elle peut avoir une date d'expiration. Elle peut être désactivée à distance en cas de fraude, de partage ou de non-paiement.
+
+4. INTERDICTIONS
+Il est interdit de revendre, prêter, partager ou publier le logiciel ou une clé de licence, de contourner la protection de la licence, de décompiler ou modifier le logiciel, et de l'utiliser pour gêner d'autres joueurs ou le fonctionnement du jeu.
+
+5. DONNÉES
+Tes identifiants de jeu restent sur ton ordinateur, chiffrés par Windows. Le logiciel ne les envoie à personne d'autre qu'au serveur du jeu. Les alertes Discord ou Telegram ne partent que si tu les configures toi-même.
+
+6. ABSENCE DE GARANTIE
+Le logiciel est fourni « tel quel ». Les mises à jour du jeu peuvent empêcher certaines fonctions de marcher, temporairement ou définitivement. L'éditeur n'est pas responsable des pertes subies dans le jeu (ressources, troupes, villages, compte) ni des dommages indirects.
+
+7. FIN DU CONTRAT
+Le contrat prend fin si tu ne respectes pas ses conditions. Tu dois alors cesser d'utiliser le logiciel et le désinstaller.
