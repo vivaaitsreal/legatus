@@ -29,7 +29,9 @@ Une licence est nécessaire pour utiliser le bot : voir [Obtenir une licence](#-
 | 🛡️ **Risque de ban** | Un badge te prévient dès qu'un réglage augmente le risque |
 | 🎮 **Jeu en direct** | Le navigateur du bot affiché dans l'appli : tu peux reprendre la main à tout moment |
 
-![Carte isométrique des champs de ressources](images/villages-3d.png)
+![Vue isométrique du village](images/villages-3d.png)
+
+![Vue isométrique des champs de ressources](images/champs-3d.png)
 
 ## 💻 Installation
 
@@ -67,3 +69,5 @@ Télécharge la nouvelle version et installe-la par-dessus l'ancienne : tes comp
 Les règles de Travian interdisent les programmes d'automatisation : **utiliser Legatus peut entraîner le bannissement de ton compte**. Tu l'utilises sous ta seule responsabilité. Legatus est un outil indépendant, sans lien avec Travian Games GmbH ; « Travian » est une marque de son propriétaire.
 
 Voir le [contrat d'utilisation](LICENCE.txt).
+
+Illustrations des bâtiments : « feudalwars » sur [OpenGameArt](https://opengameart.org/content/isometric-25d-medieval-set), domaine public (CC0).
