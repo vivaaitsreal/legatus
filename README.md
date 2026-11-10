@@ -6,7 +6,7 @@
 
 ## 📥 Télécharger
 
-**[➡️ Télécharger la dernière version](../../releases/latest)** (fichier `Legatus Setup x.y.z.exe`)
+**[➡️ Télécharger la dernière version](../../releases/latest)** (fichier `Legatus-Setup-x.y.z.exe`)
 
 **[💬 Rejoindre le Discord](https://discord.gg/zdnYHb2vBr)** : licences, aide et annonces.
 
@@ -35,7 +35,7 @@ Une licence est nécessaire pour utiliser le bot : voir [Obtenir une licence](#-
 
 ## 💻 Installation
 
-1. Télécharge `Legatus Setup x.y.z.exe` depuis la [page des versions](../../releases/latest).
+1. Télécharge `Legatus-Setup-x.y.z.exe` depuis la [page des versions](../../releases/latest).
 2. Lance-le. Si Windows affiche **« Windows a protégé votre ordinateur »** : clique sur **Informations complémentaires**, puis **Exécuter quand même**.
 3. Accepte le contrat d'utilisation et laisse-toi guider. Un raccourci **Legatus** est créé sur le Bureau.
 
