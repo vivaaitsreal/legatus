@@ -1,6 +1,6 @@
 # ⚔ Legatus
 
-**Ton assistant pour Travian: Legends sur Windows.** Legatus gère tes villages pendant que tu fais autre chose : constructions, troupes, pillages, héros, commerce… le tout depuis une seule fenêtre, en français.
+**Ton assistant pour Travian: Legends sur Windows.** Legatus gère tes villages pendant que tu fais autre chose : constructions, troupes, pillages, héros, commerce… le tout depuis une seule fenêtre, en 7 langues (français, anglais, allemand, espagnol, italien, portugais, russe).
 
 ![Tableau de bord de Legatus](images/tableau-de-bord.png)
 
@@ -20,18 +20,19 @@ Une licence est nécessaire pour utiliser le bot : voir [Obtenir une licence](#-
 | 🌾 **Ravitaillement** | Surveille les céréales des villages en déficit et prépare les envois depuis tes autres villages avant la famine |
 | 🏗️ **Constructions** | File d'attente par village, ce qui manque et le délai quand les ressources ne suffisent pas, champs automatiques, planificateur (économique, militaire, équilibré, expansion), modèles réutilisables |
 | ⚔️ **Troupes** | Formation en boucle, forge, envois planifiés à la seconde, évacuation avant une attaque |
-| 🐎 **Pillages** | Listes de pillage du jeu, intervalles aléatoires, désactivation des cibles qui coûtent des pertes, recherche d'inactifs |
+| 🐎 **Pillages** | Listes de pillage du jeu envoyées à intervalles aléatoires avec un comportement humain (pauses, variations), désactivation des cibles qui coûtent des pertes, recherche d'inactifs |
 | 🦸 **Héros** | Aventures, répartition des points, oasis avec estimation des pertes, ressources du héros, récompenses |
 | 🐪 **Commerce** | Routes automatiques entre tes villages |
 | 📊 **Suivi** | Tableau de bord, prévisions de stock, statistiques, alertes Windows, Discord et Telegram |
 | 👥 **Multi-comptes** | Plusieurs comptes, chacun avec ses réglages |
 | 🕒 **Horaires et vitesse** | Heures d'activité par jour et vitesse Prudente, Normale ou Rapide pour jouer comme un humain |
-| 🛡️ **Risque de ban** | Un badge te prévient dès qu'un réglage augmente le risque |
 | 🎮 **Jeu en direct** | Le navigateur du bot affiché dans l'appli : tu peux reprendre la main à tout moment |
 
 ![Vue isométrique du village](images/villages-3d.png)
 
 ![Vue isométrique des champs de ressources](images/champs-3d.png)
+
+![Envoi automatique des listes de pillage avec comportement humain](images/listes-pillage.png)
 
 ## 💻 Installation
 
