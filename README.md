@@ -20,6 +20,7 @@ Une licence est nécessaire pour utiliser le bot : voir [Obtenir une licence](#-
 | 🌾 **Ravitaillement** | Surveille les céréales des villages en déficit et prépare les envois depuis tes autres villages avant la famine |
 | 🏗️ **Constructions** | File d'attente par village, ce qui manque et le délai quand les ressources ne suffisent pas, champs automatiques, planificateur (économique, militaire, équilibré, expansion), modèles réutilisables |
 | ⚔️ **Troupes** | Formation en boucle, forge, envois planifiés à la seconde, évacuation avant une attaque |
+| ↩️ **Retours d'off** | Heure de retour des troupes de chaque attaquant, estimée dès le repérage puis confirmée par le rapport de défense, et contre-attaque programmée qui arrive juste après |
 | 🐎 **Pillages** | Listes de pillage du jeu envoyées à intervalles aléatoires avec un comportement humain (pauses, variations), désactivation des cibles qui coûtent des pertes, recherche d'inactifs |
 | 🦸 **Héros** | Aventures, répartition des points, oasis avec estimation des pertes, ressources du héros, récompenses |
 | 🐪 **Commerce** | Routes automatiques entre tes villages |
